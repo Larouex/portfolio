@@ -20,9 +20,11 @@ I'm driven by continuous learning, meaningful innovation, and impactful collabor
 
 [Northwest Chef Chat](https://northwestchefchat.com) is a vibrant online platform dedicated to celebrating and exploring the rich culinary landscape of the Pacific Northwest. This engaging community brings together food enthusiasts, professional chefs, and culinary innovators to share their passion for the region's unique flavors and ingredients. Through in-depth interviews, recipe exchanges, and discussions about local food trends, Northwest Chef Chat showcases the talents of renowned chefs. By fostering connections between chefs, local producers, and food lovers, Northwest Chef Chat serves as a hub for culinary inspiration and a testament to the Pacific Northwest's thriving food scene.
 
-Larouex Gourmet Foods
+### Larouex Gourmet Foods
 
-## Event Services and Culinary Offerings
+[Larouex Gourmet Foods](https://www.larouexfoods.com)
+
+#### Event Services and Culinary Offerings
 
 Our company provides comprehensive event services and unique culinary experiences, specializing in off-grid events and high-quality food options.
 
@@ -49,7 +51,7 @@ Our company provides comprehensive event services and unique culinary experience
 - Yoder-TS 500 Smoking Trailer
 - Versatile use for event service, on-site dining, beverage service, and retail
 
-## Signature Brands and Menus
+#### Signature Brands and Menus
 
 1. **[Pink Pig BBQ](https://www.pinkpigbbq.com)**: Regional-specific BBQ with mix-and-match options
 2. **[Bento Larouex](https://www.bentolarouex.com)**: Japanese-inspired Bento Box meals for synchronized serving
@@ -58,4 +60,20 @@ Our company provides comprehensive event services and unique culinary experience
 
 Our commitment is to ensure the success of your event through our diverse services and culinary expertise.
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+### Normandy Park Police Foundation
+
+The [Normandy Park Police Foundation](https://normandyparkpolicefoundation.org) is an independent, community-based non-profit organization dedicated to supporting and enhancing the Normandy Park Police Department, community alliances, crime prevention, and public safety initiatives[6].
+
+The foundation plays an active role in assisting the community with various programs:
+
+1. Block Watch: The foundation helps set up and maintain Block Watch programs within the City of Normandy Park, fostering community vigilance and cooperation.
+
+2. Paws on Patrol: This innovative crime prevention program encourages dog owners to serve as extra eyes and ears for the community. Participants receive educational materials on spotting suspicious behavior and how to report it effectively.
+
+3. Community Involvement: The foundation supports efforts to increase community engagement and promote a sense of ownership and pride among residents.
+
+4. Funding Support: As a non-profit organization, the foundation provides funding for essential but non-budgeted items that contribute to effective community policing.
+
+5. Public Safety Initiatives: The foundation collaborates with the Normandy Park Police Department and other local organizations to organize events such as disaster skills training, enhancing community preparedness.
+
+By supporting these initiatives, the Normandy Park Police Foundation aims to create a stronger partnership between the police department and the community, ultimately contributing to a safer and more connected Normandy Park.
