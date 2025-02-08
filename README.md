@@ -66,27 +66,9 @@ Our company provides comprehensive event services and unique culinary experience
 
 #### Signature Brands and Menus
 
-1. **[Pink Pig BBQ](https://www.pinkpigbbq.com)**: Regional-specific BBQ with mix-and-match options
-2. **[Bento Larouex](https://www.bentolarouex.com)**: Japanese-inspired Bento Box meals for synchronized serving
-3. **[Lofty Sandwich](https://www.loftysandwich.com)**: Made-to-order sandwiches featuring unique ingredients
-4. **[BBQ Buddha Bowls](https://www.bbqbuddhabowls.com)**: High-protein, fresh meals focused on healthy ingredients
+1. **Pink Pig BBQ**: Regional-specific BBQ with mix-and-match options
+2. **Bento Larouex**: Japanese-inspired Bento Box meals for synchronized serving
+3. **Lofty Sandwich**: Made-to-order sandwiches featuring unique ingredients
+4. **BBQ Buddha Bowls**: High-protein, fresh meals focused on healthy ingredients
 
 Our commitment is to ensure the success of your event through our diverse services and culinary expertise.
-
-### Normandy Park Police Foundation
-
-The [Normandy Park Police Foundation](https://normandyparkpolicefoundation.org) is an independent, community-based non-profit organization dedicated to supporting and enhancing the Normandy Park Police Department, community alliances, crime prevention, and public safety initiatives[6].
-
-The foundation plays an active role in assisting the community with various programs:
-
-1. Block Watch: The foundation helps set up and maintain Block Watch programs within the City of Normandy Park, fostering community vigilance and cooperation.
-
-2. Paws on Patrol: This innovative crime prevention program encourages dog owners to serve as extra eyes and ears for the community. Participants receive educational materials on spotting suspicious behavior and how to report it effectively.
-
-3. Community Involvement: The foundation supports efforts to increase community engagement and promote a sense of ownership and pride among residents.
-
-4. Funding Support: As a non-profit organization, the foundation provides funding for essential but non-budgeted items that contribute to effective community policing.
-
-5. Public Safety Initiatives: The foundation collaborates with the Normandy Park Police Department and other local organizations to organize events such as disaster skills training, enhancing community preparedness.
-
-By supporting these initiatives, the Normandy Park Police Foundation aims to create a stronger partnership between the police department and the community, ultimately contributing to a safer and more connected Normandy Park.
