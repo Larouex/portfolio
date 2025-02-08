@@ -13,6 +13,7 @@ Key highlights:
 - **Industry Bridging**: Combining tech knowledge with culinary and hospitality experience
 - **Mentorship**: Advising young professionals in the tech industry
 - **Community Involvement**: Serving as a judge for Formula One in Schools program
+- **Teaching and Instruction**: Designed Curriculum for IoT and Raspberry Pi onboarding and STEM (Online video and in-person)
 
 I'm driven by continuous learning, meaningful innovation, and impactful collaboration. My goal is to leverage technology to transform industries, creating solutions that make a tangible difference. I'm always open to new challenges and opportunities, particularly in fractional work, consulting, and advisory roles.
 
