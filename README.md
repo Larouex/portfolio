@@ -18,7 +18,7 @@ I'm driven by continuous learning, meaningful innovation, and impactful collabor
 
 ### Normandy Park Police Foundation
 
-As a Board Member of the [Normandy Park Police Foundation](https://www.normandyparkpolicefoundation.com), I designed and developed a cutting-edge website to enhance community engagement and public safety initiatives.
+As a Board Member of the [Normandy Park Police Foundation](https://www.normandyparkpolicefoundation.org), I designed and developed a cutting-edge website to enhance community engagement and public safety initiatives.
 
 Leveraging my expertise in web development, I created a dynamic and user-friendly platform using React, showcasing the following key features:
 
