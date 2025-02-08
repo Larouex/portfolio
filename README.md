@@ -1,3 +1,7 @@
+### Portfolio for Larry W Jordan Jordan
+
+#### Updated: Feb 8th, 2025
+
 # Web Design, Coding and Deployment Projects
 
 My unique background blends technology with culinary arts and hospitality. As a former chef and treasurer at the Washington State Chef Association, I'm passionate about exploring the intersection of technology and the food & hospitality industries. This diverse experience allows me to bridge these worlds, driving innovations that enhance food production, delivery, and customer experiences.
@@ -72,3 +76,14 @@ Our company provides comprehensive event services and unique culinary experience
 4. **BBQ Buddha Bowls**: High-protein, fresh meals focused on healthy ingredients
 
 Our commitment is to ensure the success of your event through our diverse services and culinary expertise.
+
+# Writing and Stories
+
+## Vintage Restaurants and Menus
+
+[Northwest Chef Chat on Medium](https://medium.com/northwest-chef-chat)
+
+## Travel
+
+[What I Learned in Saudi Arabia](https://larouex.medium.com/what-i-learned-in-saudi-arabia-all-stories-d5e4328f40eb?source=friends_link&sk=5fc7ab6e93fde8c3ab63c80199aeab09)
+[What I learned in Japan](https://larouex.medium.com/what-i-learned-in-japan-all-articles-0556bd6498a8?source=friends_link&sk=47bb35fecc61386cf5fa3fe37fe81f7f)
