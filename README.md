@@ -85,5 +85,5 @@ Our commitment is to ensure the success of your event through our diverse servic
 
 ## Travel
 
-[What I Learned in Saudi Arabia](https://larouex.medium.com/what-i-learned-in-saudi-arabia-all-stories-d5e4328f40eb?source=friends_link&sk=5fc7ab6e93fde8c3ab63c80199aeab09)
-[What I learned in Japan](https://larouex.medium.com/what-i-learned-in-japan-all-articles-0556bd6498a8?source=friends_link&sk=47bb35fecc61386cf5fa3fe37fe81f7f)
+- [What I Learned in Saudi Arabia](https://larouex.medium.com/what-i-learned-in-saudi-arabia-all-stories-d5e4328f40eb?source=friends_link&sk=5fc7ab6e93fde8c3ab63c80199aeab09)
+- [What I learned in Japan](https://larouex.medium.com/what-i-learned-in-japan-all-articles-0556bd6498a8?source=friends_link&sk=47bb35fecc61386cf5fa3fe37fe81f7f)
