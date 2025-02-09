@@ -38,7 +38,7 @@ Leveraging my expertise in web development, I created a dynamic and user-friendl
 
 This project demonstrates my ability to apply advanced web technologies to support local law enforcement and strengthen community ties. The website serves as a central hub for residents to access important information, participate in safety programs, and stay connected with their local police department.
 
-![Northwest Chef Chat Logo](/assets/northwest-chef-chat-logo.png)
+![Northwest Chef Chat Logo](/assets/nwcc-logo-200.png)
 
 ### Northwest Chef Chat
 
