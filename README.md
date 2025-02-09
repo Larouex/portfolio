@@ -1,4 +1,4 @@
-### Portfolio for Larry W Jordan Jordan
+### Portfolio for Larry W Jordan Jr
 
 #### Updated: Feb 8th, 2025
 
