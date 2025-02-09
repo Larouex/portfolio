@@ -17,7 +17,7 @@ Key highlights:
 
 I'm driven by continuous learning, meaningful innovation, and impactful collaboration. My goal is to leverage technology to transform industries, creating solutions that make a tangible difference. I'm always open to new challenges and opportunities, particularly in fractional work, consulting, and advisory roles.
 
-![My Own Cooking Show Logo](/assets/my-own-cooking-show-logo-light.png)
+![My Own Cooking Show Logo](/assets/My%20Own%20Cooking%20Show%20Logo%20Orange.png)
 
 ### My Own Cooking Show
 
