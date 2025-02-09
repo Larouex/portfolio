@@ -17,7 +17,7 @@ Key highlights:
 
 I'm driven by continuous learning, meaningful innovation, and impactful collaboration. My goal is to leverage technology to transform industries, creating solutions that make a tangible difference. I'm always open to new challenges and opportunities, particularly in fractional work, consulting, and advisory roles.
 
-![My Own Cooking Show Logo](/assets/My%20Own%20Cooking%20Show%20Logo%20Orange.png)
+![My Own Cooking Show Logo](/assets/My-Own-Cooking-Show-Logo-Orange-200.png)
 
 ### My Own Cooking Show
 
@@ -43,6 +43,8 @@ This project demonstrates my ability to apply advanced web technologies to suppo
 ### Northwest Chef Chat
 
 [Northwest Chef Chat](https://northwestchefchat.com) is a vibrant online platform dedicated to celebrating and exploring the rich culinary landscape of the Pacific Northwest. This engaging community brings together food enthusiasts, professional chefs, and culinary innovators to share their passion for the region's unique flavors and ingredients. Through in-depth interviews, recipe exchanges, and discussions about local food trends, Northwest Chef Chat showcases the talents of renowned chefs. By fostering connections between chefs, local producers, and food lovers, Northwest Chef Chat serves as a hub for culinary inspiration and a testament to the Pacific Northwest's thriving food scene.
+
+![Larouex Gourmet Foods Logo](/assets/LGF-github-logo-100.png)
 
 ### Larouex Gourmet Foods
 
