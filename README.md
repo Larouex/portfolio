@@ -44,7 +44,7 @@ This project demonstrates my ability to apply advanced web technologies to suppo
 
 [Northwest Chef Chat](https://northwestchefchat.com) is a vibrant online platform dedicated to celebrating and exploring the rich culinary landscape of the Pacific Northwest. This engaging community brings together food enthusiasts, professional chefs, and culinary innovators to share their passion for the region's unique flavors and ingredients. Through in-depth interviews, recipe exchanges, and discussions about local food trends, Northwest Chef Chat showcases the talents of renowned chefs. By fostering connections between chefs, local producers, and food lovers, Northwest Chef Chat serves as a hub for culinary inspiration and a testament to the Pacific Northwest's thriving food scene.
 
-![Larouex Nonprofit Consulting Logo](/assets/LarouexNonprofitConsultingLogo.png)
+![Larouex Nonprofit Consulting Logo](/assets/LarouexNonprofitConsultingLogo200.png)
 
 ### Larouex Nonprofit Consulting: Revolutionizing Nonprofit Operations with AI
 
