@@ -54,7 +54,7 @@ Larouex Nonprofit Consulting is dedicated to empowering nonprofit organizations 
 
 #### Our Approach: Building Human-Led, AI-Operated Systems
 
-We believe that the future of nonprofit work is **human-led and AI-operated**. This means blending machine intelligence with invaluable human judgment to create systems that support and empower your team[cite: 7]. Our strategy unfolds in three phases, tailored to the unique needs of nonprofits:
+We believe that the future of nonprofit work is **human-led and AI-operated**. This means blending machine intelligence with invaluable human judgment to create systems that support and empower your team. Our strategy unfolds in three phases, tailored to the unique needs of nonprofits:
 
 - **Phase 1: Human with Assistant** Every employee has an AI assistant that helps them work better and faster.
 - **Phase 2: Human-Agent Teams** Agents join teams as "digital colleagues," taking on specific tasks at human direction. These agents equip employees with new skills that help scale their impact—freeing them to do new and more valuable work.
