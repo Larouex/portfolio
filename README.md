@@ -69,7 +69,7 @@ We focus on using AI to remove repetitive and time-consuming tasks, allowing you
 #### Key Benefits for Nonprofits
 
 - **Enhanced Donor & Community Engagement**: Prioritize features and content that enhance donor management, volunteer coordination, and community engagement. Recommend automation for personalized donor journeys, timely acknowledgments, and effective communication strategies.
-- **Operational Efficiency**: Automate workflows and processes, from answering support tickets to drafting reports, freeing up valuable staff time[cite: 186].
+- **Operational Efficiency**: Automate workflows and processes, from answering support tickets to drafting reports, freeing up valuable staff time.
 - **Data Integration & Clarity**: Suggest solutions that unify data across platforms (CRMs, email, reporting) and promote actionable insights. Emphasize data consistency, privacy, and security in all technical guidance.
 - **Strategic Guidance & Capacity Building**: Our solutions are designed to build long-term capacity within your organization, providing guidance, training, and documentation for sustainable growth. We encourage knowledge sharing and team empowerment in all project deliverables.
 - **Impact Measurement**: Include methods for tracking and reporting the tangible impact of implemented solutions (e.g., time saved, donor retention improvements, increased fundraising). Align success metrics with nonprofit objectives, not just technical deliverables.
